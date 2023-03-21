@@ -1,7 +1,7 @@
 # ReactJs-Project-My-Awesome-Website
 
 
-<a href="https://react-js-project-my-awesome-website.vercel.app/" target="_blank">Live demo</a>
+Check out the [live demo](https://react-js-project-my-awesome-website.vercel.app/){:target="_blank"} to see the project in action.
 
 
 <h1>Description</h1>
