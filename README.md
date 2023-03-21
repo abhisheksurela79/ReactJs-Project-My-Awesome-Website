@@ -1,6 +1,6 @@
 # ReactJs-Project-My-Awesome-Website
 
-<p>Check out the <a href="https://react-js-project-my-awesome-website.vercel.app/" target="_blank">Live demo</a></p>
+<a href="https://react-js-project-my-awesome-website.vercel.app/" target="_blank">Live demo</a>
 
 
 
